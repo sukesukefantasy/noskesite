@@ -26,7 +26,7 @@ body {
   width: 200px;
   padding: 12px 10px 8px 8px;
   background-color: #ffa07a;
-  border-style: solid;
+  border-style: solid; 
   border-radius: 6px;
   border-collapse: collapse;
   border-color: #f5f5dc;

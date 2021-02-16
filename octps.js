@@ -6,7 +6,7 @@ const reset = document.getElementById("reset");
 
 // Definition EventListener Area
 
- btn.addEventListener("click" , way);
+ btn.addEventListener("click" , way); 
  reset.addEventListener("click" , del);
 
 
